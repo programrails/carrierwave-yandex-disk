@@ -1,0 +1,6 @@
+Metrics/MethodLength:
+  Max: 1000
+Metrics/AbcSize:
+  Max: 1000
+Metrics/BlockLength:
+  Max: 1000
